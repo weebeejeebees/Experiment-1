@@ -1,0 +1,15 @@
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment1\Experiment1\bin\Debug\net6.0\Experiment1.exe
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment1\Experiment1\bin\Debug\net6.0\Experiment1.deps.json
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment1\Experiment1\bin\Debug\net6.0\Experiment1.runtimeconfig.json
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment1\Experiment1\bin\Debug\net6.0\Experiment1.dll
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment1\Experiment1\bin\Debug\net6.0\Experiment1.pdb
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment1\Experiment1\obj\Debug\net6.0\Experiment1.csproj.AssemblyReference.cache
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment1\Experiment1\obj\Debug\net6.0\Experiment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment1\Experiment1\obj\Debug\net6.0\Experiment1.AssemblyInfoInputs.cache
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment1\Experiment1\obj\Debug\net6.0\Experiment1.AssemblyInfo.cs
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment1\Experiment1\obj\Debug\net6.0\Experiment1.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment1\Experiment1\obj\Debug\net6.0\Experiment1.dll
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment1\Experiment1\obj\Debug\net6.0\refint\Experiment1.dll
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment1\Experiment1\obj\Debug\net6.0\Experiment1.pdb
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment1\Experiment1\obj\Debug\net6.0\Experiment1.genruntimeconfig.cache
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment1\Experiment1\obj\Debug\net6.0\ref\Experiment1.dll
